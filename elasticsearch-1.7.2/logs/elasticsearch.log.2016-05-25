@@ -1,0 +1,12 @@
+[2016-05-25 23:46:46,214][INFO ][node                     ] [Junkpile] version[1.7.2], pid[19364], build[e43676b/2015-09-14T09:49:53Z]
+[2016-05-25 23:46:46,214][INFO ][node                     ] [Junkpile] initializing ...
+[2016-05-25 23:46:46,292][INFO ][plugins                  ] [Junkpile] loaded [], sites []
+[2016-05-25 23:46:46,326][INFO ][env                      ] [Junkpile] using [1] data paths, mounts [[/home/andrian (/home/andrian/.Private)]], net usable_space [7gb], net total_space [20gb], types [ecryptfs]
+[2016-05-25 23:46:48,687][INFO ][node                     ] [Junkpile] initialized
+[2016-05-25 23:46:48,687][INFO ][node                     ] [Junkpile] starting ...
+[2016-05-25 23:46:48,890][INFO ][transport                ] [Junkpile] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.1.5:9300]}
+[2016-05-25 23:46:48,929][INFO ][discovery                ] [Junkpile] elasticsearch/gRlue2IpRk6gUMdb5Wh-3Q
+[2016-05-25 23:46:52,707][INFO ][cluster.service          ] [Junkpile] new_master [Junkpile][gRlue2IpRk6gUMdb5Wh-3Q][Andrian-HP][inet[/192.168.1.5:9300]], reason: zen-disco-join (elected_as_master)
+[2016-05-25 23:46:52,737][INFO ][http                     ] [Junkpile] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.1.5:9200]}
+[2016-05-25 23:46:52,738][INFO ][node                     ] [Junkpile] started
+[2016-05-25 23:46:52,760][INFO ][gateway                  ] [Junkpile] recovered [0] indices into cluster_state

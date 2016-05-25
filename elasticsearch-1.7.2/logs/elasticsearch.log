@@ -1,0 +1,2 @@
+[2016-05-26 00:16:32,531][INFO ][cluster.metadata         ] [Junkpile] [movies_development_20160526001632094] creating index, cause [api], templates [], shards [5]/[1], mappings [_default_]
+[2016-05-26 00:16:33,227][INFO ][cluster.metadata         ] [Junkpile] [movies_development_20160526001632094] update_mapping [movie] (dynamic)
